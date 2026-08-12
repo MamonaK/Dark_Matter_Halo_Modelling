@@ -5,3 +5,7 @@ This project combines both theoretical and applied computation. To establish the
 1. Clone the repository.
 2. Install the required Python packages.
 3. Run main.py to verify the SPARC data loads correctly.
+
+
+## Contributors
+Henna Sohail, Chloe Skinner, Mamona Khan
