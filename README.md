@@ -8,7 +8,7 @@ This project investigates dark matter halo models and their ability to reproduce
 2. Install the required Python packages.
 3. Run main.py to verify the SPARC data loads correctly.
 4. See DARKMATTERMODELLING(1) for code of density profiles, residuals, and chi-squared fitting
-5. See DM_Halo_rk4(1) for source code RK4 method on Cored-Isothermal density profile
+5. See DM_Halo_rk4 for source code RK4 method on Cored-Isothermal density profile
 
 
 ## Contributors
